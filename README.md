@@ -9,7 +9,7 @@ $ docker-compose up -d --build
 # Instale as dependências caso não o foram
 $ docker-compose exec app compose install
 
-# acessando serviço php Ex :
+# acessando serviço php Ex, provavelmente nao será necessário, porq o já está mepeado com o servidor :
 $ docker-compose exec app php artisan serve
 
 # rode os seeds
