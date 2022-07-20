@@ -25,7 +25,7 @@ $ docker-compose exec app php artisan db:seed
 
 ## api
     >> para testar a api user o prefix api/api
-    >> o prefix /frontend é para a autenticacao das rotas
+    >> o prefix /frontend é para a autenticacao das rotas do fronte
 
 ## porta
     A porta que dev iniciar dev ser a 8000 para autenticacao do frontend funcionar
